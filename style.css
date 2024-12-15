@@ -20,7 +20,7 @@
 }
 
 .logo {
-    background-image: url("../../../amazon.logo.png");
+    background-image: url("./amazon.logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -193,7 +193,7 @@ ul>a{
 
 }
 .logo{
-    background-image: url("../../../amazon.logo.png");
+    background-image: url("./amazon.logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -208,3 +208,18 @@ ul>a{
     justify-content:center;
 
 }
+/* @media screen and (min-width:400px){
+     {width: 8.33%;}
+     {width: 16.66%;}
+     {width: 25%;}
+     {width: 33.33%;}
+     {width: 41.66%;}
+     {width: 50%;}
+   {width: 58.33%;}
+    {width: 66.66%;}
+     {width: 75%;}
+     {width: 83.33%;}
+     {width: 91.66%;}
+    {width: 100%;}
+    
+} */
